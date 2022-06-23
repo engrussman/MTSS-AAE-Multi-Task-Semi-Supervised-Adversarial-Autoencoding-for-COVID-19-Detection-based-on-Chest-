@@ -22,3 +22,6 @@ Following are the results of our proposed solution in comparison with other meth
 
 #### Confusion Matrix:
 ![enter image description here](https://github.com/engrussman/Multi-Task-Semi-Supervised-Adversarial-Autoencoding-for-COVID-19-Detection-based-on-Chest-Xray-image/blob/main/Images/CF.png)
+
+#### NOTE:
+This paper is currently under-review at Expert Systems for Application Journal, remaining part of implementation (i.e., train.py and trained weights) will be shared after the publication manuscript. 
